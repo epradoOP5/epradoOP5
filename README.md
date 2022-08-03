@@ -48,7 +48,7 @@ I **collect** ... Videogames, Pokemon trading Cards.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t2ac32&layout=compact&theme=nord)](https://github.com/t2ac32/github-readme-stats)
 <br><br>
 
-![10](darker_gradient_1500x50.png)    
+![10](soft_gradient_1500x50.png)    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
 * ✨ mail: eprado@insulet.com
