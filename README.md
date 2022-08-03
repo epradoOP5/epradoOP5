@@ -4,7 +4,7 @@ epradoOP5/epradoOP5 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![10](rainbow_gradient_1500x50.png)
+![10](soft_gradient_1500x50.png)
 # Servus! 👋 Hola! I'm Eduardo (Lalo).
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -48,7 +48,7 @@ I **collect** ... Videogames, Pokemon trading Cards.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t2ac32&layout=compact&theme=nord)](https://github.com/t2ac32/github-readme-stats)
 <br><br>
 
-![10](rainbow_gradient_1500x50.png)    
+![10](darker_giradient_1500x50.png)    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
 * ✨ mail: eprado@insulet.com
