@@ -40,7 +40,7 @@ I am **attracted** to collecting stuff.
 I **collect** ... Videogames, Pokemon trading Cards.    
 <br>
 
-![10](rainbow_gradient_1500x50.png)
+![10](soft_gradient_1500x50.png)
 <br><br>
 
 ![Tracer's GitHub stats](https://github-readme-stats.vercel.app/api?username=t2ac32&hide=contribs,prs&theme=nord&show_icons=true)
@@ -48,10 +48,10 @@ I **collect** ... Videogames, Pokemon trading Cards.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t2ac32&layout=compact&theme=nord)](https://github.com/t2ac32/github-readme-stats)
 <br><br>
 
-![10](darker_giradient_1500x50.png)    
+![10](darker_gradient_1500x50.png)    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
 * ✨ mail: eprado@insulet.com
 <br>
 
-![10](rainbow_gradient_1500x50.png)
+![10](soft_gradient_1500x50.png)
