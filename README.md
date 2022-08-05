@@ -51,7 +51,6 @@ I **collect** ... Videogames, Pokemon trading Cards.
 ![10](soft_gradient_1500x50.png)    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
-* ✨ mail: eprado@insulet.com
 <br>
 
 ![10](soft_gradient_1500x50.png)
